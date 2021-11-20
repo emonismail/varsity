@@ -1,2 +1,0 @@
-# varsity
-varsity management 
